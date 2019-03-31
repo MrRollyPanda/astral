@@ -517,7 +517,7 @@ Canberra,Australia,35°17'S,49°07'E,Australia/Canberra,578
 Perth,Australia,31°57'S,115°51'E,Australia/Perth,32
 Brisbane,Australia,27°28'S,153°02'E,Australia/Brisbane,15
 Hobart,Australia,42°52'S,147°19'E,Australia/Hobart,1
-Darwin,Australia,12°26'S,130°50'E,Australia/Darwin,1
+Darwin,Australia,12°26'S,130°50'E,Australia/Darwin,31
 """
 #endregion
 
