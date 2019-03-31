@@ -334,7 +334,6 @@ Stanley,Falkland Islands,51°40'S,59°51'W,Atlantic/Stanley,23
 Stockholm,Sweden,59°20'N,18°05'E,Europe/Stockholm,52
 Sucre,Bolivia,16°20'S,68°10'W,America/La_Paz,2903
 Suva,Fiji,18°06'S,178°30'E,Pacific/Fiji,0
-Sydney,Australia,33°53'S,151°13'E,Australia/Sydney,3
 Taipei,Republic of China (Taiwan),25°02'N,121°38'E,Asia/Taipei,9
 T'bilisi,Georgia,41°43'N,44°50'E,Asia/Tbilisi,467
 Tbilisi,Georgia,41°43'N,44°50'E,Asia/Tbilisi,467
@@ -510,6 +509,15 @@ St. John's,Canada,47°33'N,52°42'W,America/Halifax,116
 Whitehorse,Canada,60°43'N,135°3'W,America/Whitehorse,696
 Yellowknife,Canada,62°27'N,114°22'W,America/Yellowknife,191
 Iqaluit,Canada,63°44'N,68°31'W,America/Iqaluit,3
+
+# Australian capital cities
+Melbourne,Australia,37°48'S,144°57'E,Australia/Melbourne,21
+Sydney,Australia,33°53'S,151°13'E,Australia/Sydney,3
+Canberra,Australia,35°17'S,49°07'E,Australia/Canberra,578
+Perth,Australia,31°57'S,115°51'E,Australia/Perth,32
+Brisbane,Australia,27°28'S,153°02'E,Australia/Brisbane,15
+Hobart,Australia,42°52'S,147°19'E,Australia/Hobart,1
+Darwin,Australia,12°26'S,130°50'E,Australia/Darwin,1
 """
 #endregion
 
